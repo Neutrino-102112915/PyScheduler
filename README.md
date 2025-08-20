@@ -7,7 +7,7 @@ PySchedular is a Python library for schedularling.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyScheduler.
 
 ```bash
-https://github.com/Neutrino-102112915/PyScheduler/blob/main/Scheduler/__init__.py
+pip install git+https://github.com/Neutrino-102112915/PyScheduler/blob/main/Scheduler/__init__.py
 ```
 
 ## Usage

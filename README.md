@@ -7,7 +7,7 @@ PySchedular is a Python library for scheduling.
 ```python
 import PyScheduler
 
-schedule = PyScheduler.Schedule()
+schedule = Schedule()
 
 @schedule.at(2025, 8, 21, 12, 30)
 def hello_world():

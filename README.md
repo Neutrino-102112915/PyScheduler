@@ -1,6 +1,6 @@
 # PySchedular
 
-PySchedular is a Python library for scheduling.
+PySchedular is a Python library for scheduling code simpler.
 
 ## Usage
 
